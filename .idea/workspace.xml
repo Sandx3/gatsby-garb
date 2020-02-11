@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88f28b99-630f-4c9e-a821-9671c03cd8bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/page-3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/page-3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/products.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/post-four.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/post-four.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/post-three.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/post-three.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/post-two.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/post-two.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/blog-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/blog-template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/post-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/post-template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/product-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/product-template.js" afterDir="false" />
-    </list>
+    <list default="true" id="88f28b99-630f-4c9e-a821-9671c03cd8bb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
