@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88f28b99-630f-4c9e-a821-9671c03cd8bb" name="Default Changelist" comment="" />
+    <list default="true" id="88f28b99-630f-4c9e-a821-9671c03cd8bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/page-3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/page-3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/post-four.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/post-four.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/post-three.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/post-three.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/post-two.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/post-two.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/blog-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/blog-template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/post-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/post-template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/product-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/product-template.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
@@ -15,6 +44,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1WUa1q57bFSfosv2iBi8schGZfw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -23,12 +53,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/posts" />
+      <recent name="$PROJECT_DIR$/src/templates" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/pages/posts" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,6 +96,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="18" y="-851" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579679288655">
+      <screen x="-587" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="18" y="-851" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.799/-587.-1417.2560.1417@-587.-1417.2560.1417" timestamp="1579679288655" />
+    <state x="546" y="307" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580900726132">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="546" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.949@0.23.1680.949" timestamp="1580900726132" />
     <state x="484" y="282" key="EditFileWatcherDialog" timestamp="1579207606607">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
@@ -64,5 +112,10 @@
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="341" y="136" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1579207610501" />
+    <state x="412" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1581252613273">
+      <screen x="-213" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="412" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1440.799/-213.-1057.1920.1057@-213.-1057.1920.1057" timestamp="1581252613273" />
+    <state x="246" y="-1102" width="894" height="907" key="search.everywhere.popup/0.23.1440.799/-587.-1417.2560.1417@-587.-1417.2560.1417" timestamp="1580734123165" />
   </component>
 </project>

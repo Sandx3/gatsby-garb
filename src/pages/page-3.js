@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, graphql, useStaticQuery } from "gatsby"
 
-import Layout from "../../components/layout"
+import Layout from "../components/layout"
 
 export default props => {
   const imageData = useStaticQuery(graphql`

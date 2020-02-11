@@ -6,6 +6,6 @@
 
 // You can delete this file if you're not using it
 
-exports.onRouteUpdate = ({ location, action }) => {
-  console.log('route changed', { location, action })
-}
+// exports.onRouteUpdate = ({ location, action }) => {
+//   console.log('route changed', { location, action })
+// }

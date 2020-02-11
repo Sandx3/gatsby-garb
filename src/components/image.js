@@ -23,10 +23,22 @@ const Image = () => {
           }
         }
       }
+      gatsbyLogoImage: file(relativePath: { eq: "gatsby-icon.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 300) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
     }
   `)
 
-  return <Img fluid={data.placeholderImage.childImageSharp.fluid} />
+  return (
+    <>
+      <Img fluid={data.placeholderImage.childImageSharp.fluid} />
+      <Img fluid={data.gatsbyLogoImage.childImageSharp.fluid} />
+    </>
+  )
 }
 
 export default Image
